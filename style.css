@@ -1,0 +1,112 @@
+
+body {
+    background-image: url(http://www.noubelulla.com/wp-content/uploads/2014/06/artleo.com-8069.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    margin: 0px;
+    min-height: 100%;
+    overflow-x:hidden;
+    
+}
+
+.navmenu {
+    background-color:#ccffff;
+    border: 1px solid #555;
+    float: left;
+    min-width: fit-content;
+    max-width: fit-content;
+    display: inline-block;
+}  
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 5px 8px;
+    text-decoration: underline;
+    font-size: 10px;
+}
+
+li {
+    list-style-type: none;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+#greeting {
+    color: #ff3300;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+}
+
+
+
+#myPhoto {
+    display: block;
+    margin-left: auto;
+    margin-right: 1%;
+    width: 40%;
+    float: right;
+    width: 300px;
+    length: 300px;
+}
+
+span {
+   
+    position: relative;
+    right: -400px;
+    font-family: Monospace;
+    
+}
+
+#introduction {
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    color:#a442f4;
+    font-size: 100%;
+    text-align: center;
+}
+
+.hint {
+    font-family: Georgia;
+    color: #f46141;
+    font-size: 100%;
+    text-align: center;
+
+}
+
+#crazy {
+   color: #f44141;
+   text-decoration: underline wavy #f44141;
+}
+
+#notification {
+    color: #993333;
+    font-family: monospace;
+    font-size: 100%;
+    text-align: center;
+}
+
+
+footer { 
+    position: left;
+    clear: both;
+    color: #ffffff;
+    text-align:center;
+    height: 30px;	
+    line-height: 30px;
+    font-size: 60%;
+    margin-left:-100%;
+    margin-right:-100%;
+}
+
+
