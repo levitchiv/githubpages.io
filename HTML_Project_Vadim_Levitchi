@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vadim's Personal Blog</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="navmenu">
+            <nav>
+                <ul>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=4996&course=385">Sebastian Radu</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=4475&course=385">Catalin Alexandru Lazaroiu</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=4717&course=385">Ivan Alina</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=4467&course=385">Caravasile Bogdan</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=4977&course=385">Carbunaru Razvan</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=4288&course=385">Paduraru Tania</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=4097&course=385">Cristolovean Razvan-Petru</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=4976&course=385">Apetrei Mihaela-Cristina</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=5490&course=385">Dragomir Bogdan</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=5120&course=385">Moarcas Monica</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=5470&course=385">Balaban Alexandru</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=5554&course=385">Samosca Dragos</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=4955&course=385">Saramet Andrei</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=4968&course=385">Luchian Paul</a></li>
+                    <li><a href="http://platforma.scoalainformala.ro/user/view.php?id=5157&course=385">Dudu Florin</a></li>
+                </ul>
+            </nav>
+    </div>
+            
+    
+
+    
+
+    <div>
+                    <p id="greeting">Hey! My name is Vadim Leviţchi. Nice that you are here. </br> Welcome to my personal Blog!</p></br>
+                    <span>
+                        <p>By the way, this is me. &#8681</p></br>
+                    </span>
+                        <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t31.0-8/11120067_888346157893420_3878186014799688311_o.jpg?_nc_cat=0&oh=c55b07f7a8c69269438ebe0656bc4b29&oe=5B2D1435" id="myPhoto" alt="There is a photo" title="My Awesome Photo">
+                    
+                    
+                    <p id="introduction">Here you will find <strong id="crazy">mindblowing </strong>info about me and my hobbies.</p>
+                    <p id="notification">&#9889 The page is still in construction, so wait for the awesome content coming soon! &#9889</p>
+                    <p class="hint">&#x21E6 You have also the fantastic opportunity to see the pages of my Colleagues. Check it right now!</p>
+                    <pre>
+                    <p class="hint">About myself I can say that I like to code. 
+                        If you share this hobby as well, please leave me an message to my <a href="https://www.facebook.com/vadim.levitchi?ref=bookmarks" target="_blank">Facebook</a> account.</p>
+    </pre></div>
+
+ 
+
+  <footer>
+    <p>Contact information: <a href="mailto:"levitchiv@gmail.com">
+        levitchiv@gmail.com</a>.</p>
+  </footer>  
+</body>
+</html>
